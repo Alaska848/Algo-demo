@@ -146,7 +146,6 @@ public class Main {
         return dp[n];
     }
 
-
     /* Longest increasing subsequence */
 
     public static int LIS(int [] arr){
@@ -192,4 +191,5 @@ public class Main {
         }
         return dp[n];
     }
+
 }
